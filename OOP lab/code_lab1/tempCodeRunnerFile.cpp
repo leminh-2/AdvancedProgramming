@@ -1,0 +1,1 @@
+remove(ptr, tempStr, pos);
